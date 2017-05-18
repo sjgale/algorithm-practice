@@ -1,0 +1,28 @@
+body {
+  padding: 15px;
+  font-family: sans-serif;
+}
+
+.clear {
+  clear: both;
+}
+
+h3 {
+  padding-left: 5px;
+}
+
+ul {
+  float: left;
+  margin-bottom: 10px;
+}
+
+ul li {
+  border: 1px solid black;
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+  float: left;
+  line-height: 25px;
+  text-align: center;
+  list-style: none;
+}
